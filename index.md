@@ -15,3 +15,14 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 -Game prototype (made with the Unity Engine), with the basic mechanics of a multiplayer first-person shooter. Current mechanics including: shooting with raycasts, player movement, camera movement, objectives, UI, and LAN networking (using the Unity networking API, Mirror).
 
 ![image](https://raw.githubusercontent.com/gavin-y-tan/gavin-y-tan.github.io/master/gamescreenshot.PNG)
+
+
+### Experience
+
+Sylvan Learning September 2017-May 2018
+
+Assisted in teaching kids in an extracurricular class about the basics of engineering, robotics, and programming.   
+
+Explained the principles and logic of coding to the students.
+
+Organized and maintained the materials used in the robotics class.
