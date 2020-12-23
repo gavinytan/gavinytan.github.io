@@ -17,12 +17,12 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 ![image](https://raw.githubusercontent.com/gavin-y-tan/gavin-y-tan.github.io/master/gamescreenshot.PNG)
 
 
-### Experience
+## Experience
 
-Sylvan Learning September 2017-May 2018
+### Sylvan Learning September 2017-May 2018
 
-Assisted in teaching kids in an extracurricular class about the basics of engineering, robotics, and programming.   
+-Assisted in teaching kids in an extracurricular class about the basics of engineering, robotics, and programming.   
 
-Explained the principles and logic of coding to the students.
+-Explained the principles and logic of coding to the students.
 
-Organized and maintained the materials used in the robotics class.
+-Organized and maintained the materials used in the robotics class.
