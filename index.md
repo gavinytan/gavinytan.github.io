@@ -4,5 +4,4 @@ layout: default
 
 
 # Projects
-Placeholder1
-Placeholder2
+<a href="file.txt">Download File</a>
