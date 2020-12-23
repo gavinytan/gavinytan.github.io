@@ -8,4 +8,4 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 ## Projects
 [Minecraft Plugins](https://github.com/gavin-y-tan/MinecraftPlugins)
 
-[MultiplayerFPSPrototype](https://github.com/gavin-y-tan/UnityGameTestFiles)
+[Multiplayer FPS Prototype](https://github.com/gavin-y-tan/UnityGameTestFiles)
