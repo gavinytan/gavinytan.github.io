@@ -3,6 +3,6 @@ layout: default
 ---
 
 
-#Projects
+# Projects
 Placeholder1
 Placeholder2
