@@ -19,10 +19,20 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 
 ## Experience
 
-### Sylvan Learning September 2017-May 2018
+### Sylvan Learning Instructor's Assistant
+
+September 2017-May 2018
 
 -Assisted in teaching kids in an extracurricular class about the basics of engineering, robotics, and programming.   
 
 -Explained the principles and logic of coding to the students.
 
 -Organized and maintained the materials used in the robotics class.
+
+### Student Staff Designer
+
+January 2019-May 2019
+
+-Worked with clients to create and modify commercial graphic designs through William Mason High School's Design Studio Internship program.
+
+-Created designs that were selected to be used out of all the student staff’s work.
