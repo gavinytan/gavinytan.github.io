@@ -13,4 +13,4 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 [Multiplayer FPS Prototype](https://github.com/gavin-y-tan/UnityGameTestFiles)
 -Game prototype (with the Unity Engine and using C# for scripts), with the basic mechanics of a multiplayer first-person shooter. Current mechanics including: shooting with raycasts, player movement, camera movement, objectives, UI, and LAN networking (using the Unity networking API, Mirror).
 
-![image]()
+![image](https://raw.githubusercontent.com/gavin-y-tan/gavin-y-tan.github.io/master/gamescreenshot.PNG)
