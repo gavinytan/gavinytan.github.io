@@ -9,6 +9,7 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 [Minecraft Plugins](https://github.com/gavin-y-tan/MinecraftPlugins)
 -Custom plugins (in Java with the Bukkit/Spigot package), for the game Minecraft, that each implement different custom game modes. 
 
+![image](https://raw.githubusercontent.com/gavin-y-tan/gavin-y-tan.github.io/master/mcscreenshot.PNG)
 
 [Multiplayer FPS Prototype](https://github.com/gavin-y-tan/UnityGameTestFiles)
 -Game prototype (with the Unity Engine and using C# for scripts), with the basic mechanics of a multiplayer first-person shooter. Current mechanics including: shooting with raycasts, player movement, camera movement, objectives, UI, and LAN networking (using the Unity networking API, Mirror).
