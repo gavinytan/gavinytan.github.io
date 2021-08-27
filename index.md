@@ -19,6 +19,15 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 
 ## Experience
 
+### Sylvan Learning Instructor
+
+June 2021-July 2021
+
+-Tutored several underprivileged students, through a Summer School program at Alliance Academy of Cincinnati, in a 1-on-1 setting
+
+-Explained and taught the basic processes of Math and Reading
+
+
 ### Sylvan Learning Instructor's Assistant
 
 September 2017-May 2018
