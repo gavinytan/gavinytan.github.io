@@ -9,7 +9,7 @@ I am currently pursuing a BA in Computer Science at Boston University. I became 
 Stack Interpreter
 -Built a custom stack interpreter using OCaml as the final project of a Concepts of Programming Languages course. Interpreter was designed to first take in a string and then parse the string for commands, execute the commands, and then return a list of outputs and an error code.
 
-![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/InterpreterExample.PNG)
+![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/InterpreterExample2.PNG)
 
 
 [Minecraft Plugins](https://github.com/gavin-y-tan/MinecraftPlugins)
