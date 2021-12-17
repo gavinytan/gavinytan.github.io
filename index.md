@@ -23,7 +23,7 @@ Stack Interpreter
 ![image](https://raw.githubusercontent.com/gavin-y-tan/gavin-y-tan.github.io/master/mcscreenshot.PNG)
 
 [Multiplayer FPS Prototype](https://github.com/gavin-y-tan/UnityGameTestFiles)
--Game prototype (made with the Unity Engine), with the basic mechanics of a multiplayer first-person shooter. Current mechanics including: shooting with raycasts, player movement, camera movement, objectives, UI, and LAN networking (using the Unity networking API, Mirror).
+-Game prototype (made with the Unity Engine), with the basic mechanics of a multiplayer first-person shooter. Current mechanics include: shooting with raycasts, player movement, camera movement, objectives, UI, and LAN networking (using the Unity networking API, Mirror).
 
 ![image](https://raw.githubusercontent.com/gavin-y-tan/gavin-y-tan.github.io/master/gamescreenshot.PNG)
 
