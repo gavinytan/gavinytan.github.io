@@ -6,8 +6,13 @@ layout: default
 I am currently pursuing a BA in Computer Science at Boston University. I became interested in CS due to my interest in video games. My most familiar languages are C, C#, Python, OCaml, and Java. In my freetime I enjoy playing for my school's Overwatch team and practicing martial arts.
 
 ## Projects
+Movie Info Web App
+-Worked with a team of students to plan and build a web app with decoupled architecture. The app utilizes a decoupled architecture with NodeJS and React. OAuth authentication and a database are used to store user login info. The app's functionality includes the ability to call several different APIs to find and suggest current movies.
+
+![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/CS411Pic.PNG)
+
 Stack Interpreter
--Built a custom stack interpreter using OCaml as the final project of a Concepts of Programming Languages course. Interpreter was designed to first take in a string and then parse the string for commands, execute the commands, and then return a list of outputs and an error code.
+-Built a custom stack interpreter using OCaml as the final project of a Concepts of Programming Languages course. Interpreter is designed to first take in a string and then parse the string for commands, execute the commands, and then return a list of outputs and an error code.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/InterpreterExample2.PNG)
 
