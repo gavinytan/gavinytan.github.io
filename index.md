@@ -7,7 +7,7 @@ I am currently pursuing a BA in Computer Science with a minor in Visual Arts at 
 
 ## Projects
 Movie Info Web App
--Worked with a team of students to plan and build a web app with decoupled architecture. The app utilizes a decoupled architecture with NodeJS and React. OAuth authentication and a database are used to store user login info. The app's functionality includes the ability to call several different APIs to find and suggest current movies.
+-Worked with a team of students to plan and build a web app with decoupled architecture. The app utilizes a decoupled architecture with Node.js and React. OAuth authentication and a database are used to store user login info. The app's functionality includes the ability to call several different APIs to find and suggest current movies.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/CS411Pic.PNG)
 
