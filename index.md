@@ -6,7 +6,7 @@ layout: default
 I am currently pursuing a BA in Computer Science with a minor in Visual Arts at Boston University. I became interested in CS due to my interest in video games. My most familiar languages are C, C#, Python, OCaml, and Java. In my freetime, I enjoy playing for my school's Overwatch team, drawing, and practicing martial arts.
 
 ## Projects
-Movie Info Web App
+[Movie Info Web App](https://github.com/gavinytan/MovieInfoWebApp)
 -Worked with a team of students to plan and build a web app with decoupled architecture. The app utilizes a decoupled architecture with Node.js and React. OAuth authentication and a database are used to store user login info. The app's functionality includes the ability to call several different APIs to find and suggest current movies.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/CS411Pic.PNG)
