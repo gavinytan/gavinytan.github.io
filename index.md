@@ -34,25 +34,23 @@ Stack Interpreter
 
 June 2021-July 2021
 
--Tutored several underprivileged students, through a Summer School program at Alliance Academy of Cincinnati, in a 1-on-1 setting
-
--Explained and taught the basic processes of Math and Reading
+-Taught foundational skills in math and reading to multiple rotations of underprivileged students through the Alliance Academy of Cincinnati’s summer school program. Tutored students in a 1-on-1 in-person using iPads
 
 
 ### Sylvan Learning Instructor's Assistant
 
 September 2017-May 2018
 
--Assisted in teaching kids in an extracurricular class about the basics of engineering, robotics, and programming.   
+-Instructed as a teaching assistant to multiple cohorts of 5 primary school students each on a weekly basis 
 
--Explained the principles and logic of coding to the students.
+-Taught principles and logic of coding to the students using the icon-based Lego programming environment WeDo. Helped students learn fundamentals of engineering, robotics, and programing  
 
--Organized and maintained the materials used in the robotics class.
 
 ### Student Staff Designer
 
 January 2019-May 2019
 
--Worked with clients to create and modify commercial graphic designs through William Mason High School's Design Studio Internship program.
+-Created commercial graphic designs for multiple clients using Adobe Creative Suite tools Photoshop and Illustrator through Mason High School’s Design Studio internship program 
 
--Created designs that were selected to be used out of all the student staff’s work.
+-Parking pass design was selected from 20+ student staff designers’ designs for use in the high school’s official parking passes. Created apparel designs for a school sponsored student race 
+
