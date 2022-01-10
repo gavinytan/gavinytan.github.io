@@ -37,7 +37,7 @@ June 2021-July 2021
 -Taught foundational skills in math and reading to multiple rotations of underprivileged students through the Alliance Academy of Cincinnati’s summer school program. Tutored students in a 1-on-1 in-person using iPads
 
 
-### Sylvan Learning Instructor's Assistant
+### Sylvan Learning Assistant Instructor
 
 September 2017-May 2018
 
