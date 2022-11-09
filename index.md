@@ -39,7 +39,11 @@ Stack Interpreter
 
 May 2022-August 2022
 
--Contributed to the modification of the Warped2 Simulation Kernel architecture, a synchronized parallel and distributed simulation kernel used for creating discrete event simulation models. Translated multiple pseudocode algorithms into usable C++ code to be used within the Warped2 Simulation Kernel. Assisted in restructuring the multithreading approach in order to increase the efficiency of the simulation
+-Contributed to the modification of the Warped2 Simulation Kernel architecture, a synchronized parallel and distributed simulation kernel used for creating discrete event simulation models
+
+-Translated multiple pseudocode algorithms into usable C++ code to be used within the Warped2 Simulation Kernel
+
+-Assisted in restructuring the multithreading approach in order to increase the efficiency of the simulation
 
 
 ### Sylvan Learning Instructor
