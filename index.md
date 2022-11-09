@@ -6,7 +6,7 @@ layout: default
 I am currently pursuing a BA in Computer Science with a minor in Visual Arts at Boston University. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing for my school's Overwatch team, drawing, and practicing martial arts.
 
 ## Projects
-3D Aquarium Simulation
+[3D Aquarium Simulation](http://gavinytan.github.io)
 -Created a 3D aquarium simulation with animated predator, prey, and food models. Implemented chase/evasion, collision, and rotation behavior of the predator and prey creatures.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/Aquarium.PNG)
@@ -26,7 +26,7 @@ I am currently pursuing a BA in Computer Science with a minor in Visual Arts at 
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/CS411Pic.PNG)
 
-Stack Interpreter
+[Stack Interpreter](http://gavinytan.github.io)
 -Built a custom stack interpreter using OCaml as the final project of a Concepts of Programming Languages course. Interpreter is designed to first take in a string and then parse the string for commands, execute the commands, and then return a list of outputs and an error code.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/InterpreterExample2.PNG)
