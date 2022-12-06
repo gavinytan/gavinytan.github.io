@@ -6,6 +6,11 @@ layout: default
 I am currently pursuing a BA in Computer Science with a minor in Visual Arts at Boston University. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing for my school's Overwatch team, drawing, and practicing martial arts.
 
 ## Projects
+[Shaded 3D Object Renderer](https://github.com/gavinytan)
+-Built a triangle mesh generator with support for torus, cylinder, sphere, ellipsoid, and cube primitives. Used GLSL to implement a Phong reflection model to shade the 3D primitives.
+
+![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/Phong.PNG)
+
 [3D Aquarium Simulation](https://github.com/gavinytan)
 -Created a 3D aquarium simulation with animated predator, prey, and food models. Implemented chase/evasion, collision, and rotation behavior of the predator and prey creatures.
 
