@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Graphics/Game Projects"
 permalink: /graphics
+---
 
 ## Graphics and Game Related Projects
 [Shaded 3D Object Renderer](https://github.com/gavinytan)
