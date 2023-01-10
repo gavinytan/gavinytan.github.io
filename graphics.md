@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Graphics/Game Projects"
 permalink: /graphics
 ---
