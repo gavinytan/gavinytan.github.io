@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am currently pursuing a BA in Computer Science with a minor in Visual Arts at Boston University. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing for my school's Overwatch team, drawing, and practicing martial arts.
+I am currently pursuing a BA in Computer Science with a minor in Visual Arts at Boston University. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing video games, drawing, and practicing martial arts.
 
 ## Projects
 [Graphics and Game Related Projects](https://gavinytan.github.io/graphics)
