@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: "About Me | Gavin Tan"
+permalink: /
 ---
 
 # About Me
