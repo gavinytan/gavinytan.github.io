@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Web App Projects"
-permalink: /WebApps
+permalink: /webapps
 ---
 
 ## Web App Projects
