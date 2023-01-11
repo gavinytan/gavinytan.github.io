@@ -6,9 +6,7 @@ permalink: /graphics
 
 ## Graphics and Game Related Projects
 [Endless Obstacles Game](https://github.com/gavinytan)
--Developed a Unity game where the player tries to stay on a platform for as long as possible while obstacles are shot towards the player to push them off
-
--Difficulty is increased over time as the spawn rate of the obstacles increases
+-Developed a Unity game where the player tries to stay on a platform for as long as possible while obstacles are shot towards the player to push them off. Difficulty is increased over time as the spawn rate of the obstacles increases.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/EndlessGame.PNG)
 
