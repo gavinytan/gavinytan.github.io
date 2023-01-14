@@ -18,7 +18,7 @@ permalink: /graphics
 [3D Aquarium Simulation](https://github.com/gavinytan)
 -Created a 3D aquarium simulation with animated predator, prey, and food models. Implemented chase/evasion, collision, and rotation behavior of the predator and prey creatures.
 
-![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/Aquarium.PNG)
+![image](https://github.com/gavinytan/gavinytan.github.io/blob/master/Aquarium.gif?raw=true)
 
 [Minecraft Plugins](https://github.com/gavin-y-tan/MinecraftPlugins)
 -Custom plugins (made with the Bukkit/Spigot package), for the game Minecraft, that each implement different custom game modes. 
