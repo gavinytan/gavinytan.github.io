@@ -17,6 +17,19 @@ I am currently pursuing a BA in Computer Science with a minor in Visual Arts at 
 
 ## Experience
 
+### Ohio Police and Fire Pension Fund Associate Software Developer
+
+July 2023-Present
+
+-Used C#, HTML, and SQL to help develop various .NET MAUI applications that are used to streamline many different processes within the Ohio Police and Fire Pension Fund
+
+-Developed a custom data grid filtering system with features such as multiple fields search and Boolean operators for an internal records viewing application
+
+-Wrote many SQL queries to retrieve and modify large amounts of data within Oracle database
+
+-Worked with OP&F Business Analysts and internal clients to gather requirements and an ensure delivery of features on internal applications
+
+
 ### High Performance Computing Lab at University of Cincinnati Undergraduate Researcher
 
 May 2022-August 2022
