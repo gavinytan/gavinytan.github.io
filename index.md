@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am currently an Associate Software Developer at Ohio Police and Fire Pension Fund. I graduated with a BA in Computer Science and a minor in Visual Arts from Boston University in May 2023. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing video games, drawing, and practicing martial arts.
+I am currently a Software Developer at Ohio Police and Fire Pension Fund. I graduated with a BA in Computer Science and a minor in Visual Arts from Boston University in May 2023. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing video games, drawing, and practicing martial arts.
 
 ## Projects
 [Graphics and Game Related Projects](https://gavinytan.github.io/graphics)
@@ -17,17 +17,20 @@ I am currently an Associate Software Developer at Ohio Police and Fire Pension F
 
 ## Experience
 
-### Ohio Police and Fire Pension Fund Associate Software Developer
+### Ohio Police and Fire Pension Fund Software Developer
 
 July 2023-Present
 
--Used C#, HTML, and SQL to help develop various .NET MAUI applications that are used to streamline many different processes within the Ohio Police and Fire Pension Fund
+-Utilized C#, HTML, and SQL to design and develop several .NET MAUI applications specifically tailored to enhance and streamline operational processes within the Ohio Police and Fire Pension Fund, including supply ordering, records management, and user information management, saving ~4 hours a week of upkeep time
 
--Developed a custom data grid filtering system with features such as multiple fields search and Boolean operators for an internal records viewing application
+-Developed a custom data grid filtering library with features such as multiple fields search and Boolean operators for use in several different internal applications, greatly increasing ease of use when working with large amounts of data 
 
--Wrote many SQL queries to retrieve and modify large amounts of data within Oracle database
+-Migrated the existing on-premises email system to a cloud-based email library, improving integration and functionality for many internal applications while reducing maintenance requirements
 
--Worked with OP&F Business Analysts and internal clients to gather requirements and an ensure delivery of features on internal applications
+-Wrote many SQL queries to retrieve and modify large amounts of data within Oracle database for reports
+
+-Collaborated with OP&F Business Analysts and internal clients to gather requirements and an ensure delivery of features on internal applications while also communicating the technological details of the business needs
+
 
 
 ### High Performance Computing Lab at University of Cincinnati Undergraduate Researcher
