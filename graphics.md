@@ -6,7 +6,7 @@ permalink: /graphics
 
 ## Graphics and Game Related Projects
 [Cart Pusher Game](https://github.com/gavinytan)
--Created a simulation game using Unreal Engine, where players take on the role of a grocery store cart pusher. Utilized physics constraints to implement various realistic cart behaviors, including cart coupling behavior and physics based wheels/steering.
+-Created a simulation game using Unreal Engine, where players take on the role of a grocery store cart pusher. Implemented various realistic cart behaviors, including cart nesting behavior, physics based wheels/handling, and dynamic sounds
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/CartPusher.png)
 
