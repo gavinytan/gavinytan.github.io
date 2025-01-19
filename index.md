@@ -6,7 +6,7 @@ layout: default
 I am currently a Software Developer at Ohio Police and Fire Pension Fund. I graduated with a BA in Computer Science and a minor in Visual Arts from Boston University in May 2023. I became interested in CS due to my interest in video games. My most familiar languages are C/C++, C#, Python, OCaml, and Java. In my freetime, I enjoy playing video games, drawing, and practicing martial arts.
 
 ## Projects
-[Game/Graphics Projects](https://gavinytan.github.io/graphics)
+[Game Projects](https://gavinytan.github.io/graphics)
 
 [Web App Projects](https://gavinytan.github.io/webapps)
 
