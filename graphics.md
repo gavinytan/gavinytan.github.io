@@ -16,12 +16,16 @@ permalink: /graphics
 ![image](https://github.com/gavinytan/gavinytan.github.io/blob/master/CartPusherGif.gif?raw=true)
 
 [Endless Obstacles Game](https://github.com/gavinytan)
--Developed a Unity game where the player tries to stay on a platform for as long as possible while obstacles are shot towards the player to push them off. Difficulty is increased over time as the spawn rate of the obstacles increases.
+-Developed a Unity game where the player tries to stay on a platform for as long as possible while obstacles are shot towards the player to push them off
+
+-Difficulty is increased over time as the spawn rate of the obstacles increases.
 
 ![image](https://github.com/gavinytan/gavinytan.github.io/blob/master/EndlessGame%20(4).gif?raw=true)
 
 [Shaded 3D Object Renderer](https://github.com/gavinytan)
--Built a triangle mesh generator with support for torus, cylinder, sphere, ellipsoid, and cube primitives. Used GLSL to implement a Phong reflection model to shade the 3D primitives.
+-Built a triangle mesh generator with support for torus, cylinder, sphere, ellipsoid, and cube primitives
+
+-Used GLSL to implement a Phong reflection model to shade the 3D primitives.
 
 ![image](https://raw.githubusercontent.com/gavinytan/gavinytan.github.io/master/Phong.PNG)
 
